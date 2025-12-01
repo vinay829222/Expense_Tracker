@@ -73,10 +73,10 @@ Visit the app:
 
 ## 📷 Screenshots
 
-[Register Page](screenshots/Image 1.png)
-[Login Page](screenshots/Image 2.png)
-[Home Page](screenshots/Image 3.png)
-[Home Page](screenshots/Image 4.png)
+[Register Page](Image 1.png)
+[Login Page](Image 2.png)
+[Home Page](Image 3.png)
+[Home Page](Image 4.png)
 
 
 ---
