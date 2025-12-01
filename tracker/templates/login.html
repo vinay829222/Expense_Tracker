@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block start %}
+
+<div style="margin-top: -80px; !important">
+    <h1>Login Page</h1> <hr>
+<form method="POST" id="form">
+        {% csrf_token %}
+        <div class="form-control">
+            <label for="text">Username</label>
+            <input type="text" name="username" id="text" placeholder="username." />
+        </div>
+        <div class="form-control">
+            <label for="amount">Password <br />
+                <small>(password must be unique)</small></label>
+            <input type="number" name="password" id="amount" placeholder="Password" />
+        </div>
+        <p>Don`t have account <a href="{% url 'register_page' %}">Register</a></p>
+
+        <button class="btn" type="submit">Login</button>
+    </form>
+</div>
+{% endblock  %}
