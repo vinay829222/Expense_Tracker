@@ -73,10 +73,9 @@ Visit the app:
 
 ## 📷 Screenshots
 
-[Register Page](Image 1.png)
-[Login Page](Image 2.png)
-[Home Page](Image 3.png)
-[Home Page](Image 4.png)
+![Snake Game Screenshot](Image 1.jpg)
+![Snake Game Screenshot](Image 2.jpg)
+
 
 
 ---
